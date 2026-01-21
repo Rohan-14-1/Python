@@ -1,5 +1,5 @@
 # Python
 Full python course
 <br>
-Auther: Rohan.
+Auther: Rohan Mandal.
 
