@@ -1,5 +1,5 @@
 # Python
 Full python course
 <br>
-Auther: Rohanls.
+Auther: Rohan.
 
