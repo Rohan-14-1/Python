@@ -8,3 +8,15 @@ print("Hello, World!\nThis is a multi-line string in Python.\nIt can span multip
 
 #Comments in Python:
 #  1.single line comment use #. 2.Multiple line comment use ''' '''
+
+
+
+
+# Variables
+# .variables are the placeholder, which can store a value. For example:
+
+# Input- A=”hello world”
+
+# Print(a)
+a = "hello world"
+print(a)
