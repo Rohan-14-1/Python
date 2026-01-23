@@ -30,3 +30,7 @@ print(f"{a} \n {b}")
 #used to take input from user
 name = input("Enter your name: ")
 print(name)
+
+#use int to take integer input from user
+age = int(input("Enter your age: "))
+print(age)
