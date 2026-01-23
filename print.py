@@ -34,3 +34,7 @@ print(name)
 #use int to take integer input from user
 age = int(input("Enter your age: "))
 print(age)
+
+#use float to take float input from user
+height = float(input("Enter your height in meters: "))  
+print(height)
