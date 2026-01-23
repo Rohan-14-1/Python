@@ -38,3 +38,7 @@ print(age)
 #use float to take float input from user
 height = float(input("Enter your height in meters: "))  
 print(height)
+
+# we can use eval as to solve the equqtion like 2+3=5.
+result = eval(input("Enter an expression to evaluate (e.g., 2 + 3): "))
+print("The result is:", result)
