@@ -25,3 +25,8 @@ print(a)
 a="Rohan"
 b="Mohan"
 print(f"{a} \n {b}")
+
+#USER-INPUT:
+#used to take input from user
+name = input("Enter your name: ")
+print(name)
