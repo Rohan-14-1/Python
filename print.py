@@ -2,3 +2,6 @@
 print("""Hello, World!
 This is a multi-line string in Python.
 It can span multiple lines without needing escape characters.""")
+
+#anotherway to print multiple line in python is by using back slaceh \n
+print("Hello, World!\nThis is a multi-line string in Python.\nIt can span multiple lines without needing escape characters.")
