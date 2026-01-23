@@ -20,3 +20,8 @@ print("Hello, World!\nThis is a multi-line string in Python.\nIt can span multip
 # Print(a)
 a = "hello world"
 print(a)
+
+# using f to print two or more than two variable in one line
+a="Rohan"
+b="Mohan"
+print(f"{a} \n {b}")
