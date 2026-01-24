@@ -23,3 +23,9 @@ a=b
 b=temp
 print(a)
 print(b)
+
+#Write a program to convert float in integer
+a = float(input("Enter a number "))
+a = int(a)
+print(a)
+print(type(a))
