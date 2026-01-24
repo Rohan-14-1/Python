@@ -42,3 +42,12 @@ print(height)
 # we can use eval as to solve the equqtion like 2+3=5.
 result = eval(input("Enter an expression to evaluate (e.g., 2 + 3): "))
 print("The result is:", result)
+
+#TypeCasting and subtyping
+# 1. Implicite type conversion
+#where python will convert there data type it's self
+a=10
+b=10.5
+c=a+b
+print(c)
+# 2. Explicit type conversion
