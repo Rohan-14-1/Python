@@ -48,6 +48,9 @@ print("The result is:", result)
 #where python will convert there data type it's self
 a=10
 b=10.5
+print (type(a))
+print(type(b))
 c=a+b
 print(c)
+print(type(c))
 # 2. Explicit type conversion
