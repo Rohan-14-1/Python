@@ -47,6 +47,7 @@ print(a)
 # *=
 
 # 5. Identity Operators
+
 # Identity operators are used to compare items to see if they are the same object with the same memory address.
 #  Types:
 # 1.	Is
@@ -55,3 +56,10 @@ print(a)
 a = 1234
 b ="123"                                  
 print(a is b)                                               
+
+
+# 6. Membership Operators
+# in
+# notin
+p="hello"
+print(a in p)
