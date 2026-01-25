@@ -17,3 +17,25 @@ e=8%3        #reminder
 f=13//3       #quotient
 g=2**2       #power
 print(f"Add: {a}\n subtract: {b}\n multipal: {c}\n divided: {d}\n reminder: {e}\n quotient: {f}\n power: {g}")
+
+
+# 2.Comparison Operators
+
+# < less than
+# > greater than
+# = equal to
+# !=not equal to
+# <= leaa than equalto
+# >= greater than equalto
+
+# 3.Logical Operators
+
+a = 3>7 and 3>2     #use of and operator. both are true then only true
+print(a)
+
+a = 3>7 or 3>2    # use of OR operator if any one is true then gives true
+print(a)
+
+a = 3>7 or 3>2    #use of not just to convert opposite
+a = not(a)
+print(a)
