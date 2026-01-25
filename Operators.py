@@ -41,3 +41,17 @@ a = not(a)
 print(a)
 
 # 4. Assignment Operators
+# = 
+# +=
+# -=
+# *=
+
+# 5. Identity Operators
+# Identity operators are used to compare items to see if they are the same object with the same memory address.
+#  Types:
+# 1.	Is
+# 2.	Is not
+# Example:
+a = 1234
+b ="123"                                  
+print(a is b)                                               
