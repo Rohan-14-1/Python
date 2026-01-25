@@ -48,3 +48,8 @@ print("Class : ",Class)
 print("Section : ",Section)
 print("Address : ",Address)
 print("Contact number : ",Cont_No)
+
+#Write a program to take user input as a integer and then convert it into float
+a=int(input ("enter any number"))
+a=float(a)
+print(a)
