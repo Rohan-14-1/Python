@@ -63,3 +63,6 @@ print(a is b)
 # notin
 p="hello"
 print(a in p)
+
+a="ram"
+print(a in a)
