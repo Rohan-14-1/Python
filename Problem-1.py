@@ -29,3 +29,8 @@ a = float(input("Enter a number "))
 a = int(a)
 print(a)
 print(type(a))
+
+#Write a program to convert float in integer
+a=float(input("Enter any decimal number"))
+a=int(a)
+print(a)
