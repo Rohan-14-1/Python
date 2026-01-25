@@ -39,3 +39,5 @@ print(a)
 a = 3>7 or 3>2    #use of not just to convert opposite
 a = not(a)
 print(a)
+
+# 4. Assignment Operators
