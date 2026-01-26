@@ -7,3 +7,11 @@
 mark=int(input("Enter your mark"))
 if mark>40:
     print("pass")
+
+# 2. if-else
+
+mark = int(input("Enter your mark"))
+if mark>40:
+    print("pass")
+else:
+    print("fsil")        
