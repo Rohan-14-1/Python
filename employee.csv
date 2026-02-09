@@ -1,0 +1,8 @@
+EEID,Name,gender,salary,Bonus
+EMP01,ayushi,F,,0%
+EMP02,rohit,M,25000,1.5%
+EMP03,pranjali,,27000,2%
+EMP01,ayushi,F,20000,0%
+EMP05,,M,25000,0%
+EMP06,rohit,M,,3%
+EMP02,rohit,M,25000,2%
