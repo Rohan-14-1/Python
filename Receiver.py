@@ -13,3 +13,5 @@ while True:
     rssi = random.randint(-120, -40)  # Simulated signal strength
     snr = round(random.uniform(-5, 10), 1)  # Simulated SNR
     print(f"[RECEIVED] {data.decode()} | RSSI: {rssi} dBm | SNR: {snr} dB")
+
+    #for lora model receiver.py code
