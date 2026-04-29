@@ -3,5 +3,5 @@ Full python course
 <br>
 Pandas
 <br>
-Auther: Rohan Mandal.
+Auther: Rohan Kumar Mandal.
 
